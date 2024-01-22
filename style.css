@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+
+.note
+{
+    font-size: 15px;
+    color: blanchedalmond;
+}
+
+.copy_right_footer
+{
+background-color: beige;
+font-size: 17px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+bottom: 0;
+position: fixed;
+width: 100%;
+line-height: 3;
+}
+
+canvas
+{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px gray;
+}
